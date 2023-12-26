@@ -4,7 +4,7 @@
 
 Щоб встановити Node.js та npm на операційній системі Windows, виконайте наступні кроки:
 
-> Що таке операційна система дивись тут [[what-is-operation-system]]
+> Що таке операційна система дивись [тут](./what-is-operation-system.md) 
 
 1. **Завантажте Node.js:**
    Перейдіть на офіційний веб-сайт Node.js за адресою https://nodejs.org/, і завантажте останню версію LTS (Long-Term Support) для Windows.
