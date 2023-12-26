@@ -1,0 +1,2 @@
+# Що таке TypeScript?
+
